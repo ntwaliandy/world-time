@@ -1,0 +1,55 @@
+{
+   "checksum": "d796e1606d1b9b55a488f71a8fad5ef1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13268049472382823",
+            "guid": "def0381c-41d8-4050-88ef-137568854b8e",
+            "id": "5",
+            "name": "Currency Converter - Python Project with Source Code - DataFlair",
+            "type": "url",
+            "url": "https://data-flair.training/blogs/currency-converter-python/"
+         }, {
+            "date_added": "13268231797769512",
+            "guid": "e308ce55-4b68-4fe3-a004-044f144ca155",
+            "id": "6",
+            "name": "How to Send Emails in Django - Elite Guidelines for Beginners - DataFlair",
+            "type": "url",
+            "url": "https://data-flair.training/blogs/django-send-email/"
+         }, {
+            "date_added": "13268237835054771",
+            "guid": "dda6e938-e8f2-42d8-954f-435ae331c82c",
+            "id": "7",
+            "name": "Sending emails from form POST data using Django - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/24958434/sending-emails-from-form-post-data-using-django"
+         } ],
+         "date_added": "13268740697219454",
+         "date_modified": "13268237835054771",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13268740697219458",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13268740697219464",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CugBCscBCIiBAhLAARKMAQgCEk4KBgoCYm0QARAzGhIJgC1i8EPFBQAhgC1i8EPFBQAiFAkmL+f9Q8UFABAGGXne7vYfL9dwMhgKFggCEQQPx/9DxQUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgmALWLwQ8UFACGALWLwQ8UFADIYChYIAhEED8f/Q8UFABgAIQAAAAAAAAAAIAAyH1k3ZTh5d2h3bGk0ZkFJZVNNS3JnbjhFVUNXUGhvaGNI4dfR8KIvcOHX0fCiLxIAIAEqGEdNS1pNZnZUNy9OZ2JjRld5YkZ6K3c9PRKtAggHEqgCChwyckpVVXhpcUZqeVhWT1FKVmF4Mms3THNaYzQ9EqYBWjpBRHF0QVp4cjFHcFVTQzFCQ2VpWWdYNEYyc1M5US9Gb0tqQjJudE1zQjBYaDA4c1IrUTFjSUs0WmdSVCtHdloxZFRRdVhzaVVWSk9OblJUNmxjcU5FRi9VMFpsY1FoQnBiR21HR2ZYQWZqNVllc1YwYUxUZzFNNldpVVFDNmtFYStQZ05wbFVJQStLaVdRQW4wdERHQ3BmeGxtWnREMDh0Umc9PRgAIAIoAjCl3pzvv6jxAjiw5o//oC9A9OLP8KIvShx3c1JaRk1NTFExY09MUnJMaG1sLzBDZGVORWM9Wh8iHa1RTmhKYkhNNkZVYTRIbnJvdm5iS1hJdlc0cjQ9ZQ/MNBQSwwEIAxK+AQoceTVXRTI3dUk2dlgvRGVJU0hKem5qTXF1V1dzPRJmWjpBRHF0QVp3WTYyMUxQeFkybFkxcXRBMldTUVdtM0tnc2R5M3pnY2w1Q2pCeGV1KytlMXlkUUxRK2hyejV3SVV4Y0ZBTE1Yb2VFdGRRM1c0UHdmUE02Qm1CZWxkK2FVTnJ6dz09GAAgACgAMMXpmOy/qPECOABAAEocNzlsK0xSRVVwaWFFdkREK0c0M2NwWFN0d0JjPVoAZQAAAAASqwEIARKmAQocL0VLTGFVVXlNZGJLRWsxQmEyVWlueURuZjdJPRJOWjpBRHF0QVp4UUdqRG54V2o5YTBWSkFZRWlwcjlVdEQrQ0dIN1pQWThkMCtDVm93U0w3YUJLb1lSMGIvUEpFSXI1Q3E5YjlQQjMvckFFGAAgACgAMMXpmOy/qPECOABAAEocVStHR0l0WkVEcFpzSVNsT1VhSVR1SUxkTW5JPVoAZQAAAAASrAIIBhKnAgocLzlMOHJWK09VM2szNVVZZGZGejYzUWhPdmdFPRKmAVo6QURxdEFaeHIxR3BVU0MxQkNlaVlnWDRGMnNTOXE3REdQRGExM1B6VVZCelRHOTdicElTcmZVTVJ0VUtOd2tTK1YvV0V6dkl4LzVEWGJtRHJ1amZDZlAxV09nOWhaOFpqR0E3MHZhM1Y1aFVTZ0xLM0Y4Q2VRUDBTN0VWdDJyZ3dRTXRueXRXV2d0MkJWVFoyeVJEektGRHhQeGJ4MGx5blF3PT0YACACKAIwgN6c77+o8QI4iqif/KAvQPTiz/CiL0ocMHMyVDJJT0F0aTNSa2l5NmxWVENVdUZPUmZFPVoeIhxaSkw2bDN5d3B1MjhDWGM4T1NHYndaYzVJajQ9ZflNS5YSwwEIAhK+AQocekRWR3JydFpMZE0rNEJUeWJnK0hDT3JXZ3lvPRJmWjpBRHF0QVp3SHNvbG41dFhPZXkyaXBLcVNXTkxxd1VINERJY2liaVJyMkNhalRDU1V4WGdySGJZZWNWd1JWbmR6VzVHLzF3ZU81eVpDazMzQ3VBUEVybFhtZDMzVjFzc0RxQT09GAAgACgAMMXpmOy/qPECOABAAEocNXVzeS9jcGZwaTFFdG9CSERnWElzMHFiNHJBPVoAZQAAAAASrAIIBRKnAgocWEJMVkhnUlBiZCttS0tPaWhoMzFlY1dEOHFzPRKmAVo6QURxdEFaeHIxR3BVU0MxQkNlaVlnWDRGMnNTOXE3REdQRGExM1B6VVZCelRHOTdicEZMYTFrWHJPd0pJMGtvMmh4aTRIVjlJYVo4eE1vVlNadjZPY0dtQzhmM0ZEcG1DWVplcERjNzVBNE5mdkRIV2QwYmZXaDhNUXBWZUxFbFJ3MlZXWktHdnZEandNWjl6S2xPZTA4cjBKdmdvTk0ybW53PT0YACACKAIwn92c77+o8QI4gIenpaAvQLDfz/CiL0ocK0ZsQnphek5WbVVpYVBqSWFBdUZJMzRHS0RBPVoeIhwwN2I4MEhpSWlmU0Z1WXMycW8xcEUzNGEwRUE9ZflNS5YYASCI6NHwoi8oAA==",
+   "version": 1
+}
