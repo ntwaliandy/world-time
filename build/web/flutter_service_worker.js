@@ -3,12 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "3718e3eace24b33296192efbaf052226",
+  "assets/AssetManifest.json": "ef69779b9830cefee6d99cf73f0356e0",
 "assets/assets/day.jpg": "9c993d440fbdcc62e3d43883e5986490",
 "assets/assets/egypt.png": "a099e084c6fcccfa4032d58d17d63f27",
 "assets/assets/germany.png": "d3b68fc65e16a603702c8324f6196a7f",
 "assets/assets/kenya.png": "ec31c84f040e6a6a712081c3e38df4ac",
 "assets/assets/night.jpg": "ab142dfab2e4fd47830d6ba8f8bac4a6",
+"assets/assets/rwanda.png": "054fd6d3d7c496072dda96cf9e401547",
 "assets/assets/uganda.png": "8cfcd6808c1b7beccf130554d1705054",
 "assets/assets/uk.png": "e316c8551496904bf2da00f0b4178da3",
 "assets/assets/usa.png": "16ebcdfdfefbbecc4bada8f40f19f99f",
@@ -21,15 +22,16 @@ const RESOURCES = {
 "assets/night.jpg": "ab142dfab2e4fd47830d6ba8f8bac4a6",
 "assets/NOTICES": "9336f7274823f1af47c49026a50a8b1b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/rwanda.png": "054fd6d3d7c496072dda96cf9e401547",
 "assets/uganda.png": "8cfcd6808c1b7beccf130554d1705054",
 "assets/uk.png": "e316c8551496904bf2da00f0b4178da3",
 "assets/usa.png": "16ebcdfdfefbbecc4bada8f40f19f99f",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "547f884ffd4f5546e834049026aae223",
-"/": "547f884ffd4f5546e834049026aae223",
-"main.dart.js": "8e72a5dc5f86cef73be4a3b12fd45f92",
+"index.html": "86ba4043e84027fbd15d561ae8a337da",
+"/": "86ba4043e84027fbd15d561ae8a337da",
+"main.dart.js": "1af6a4e74b539e6bac9ced76e90dffee",
 "manifest.json": "56ffa542221bf4c3e4da771d3bde2504",
 "version.json": "cc2bc641d6d00eacdbbca823f061c0eb"
 };
