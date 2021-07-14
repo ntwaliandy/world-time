@@ -22,6 +22,12 @@ class _ChooseLocationState extends State<ChooseLocation> {
       isDaytime: false,
     ),
     WorldTime(
+        url: 'Africa/Kigali',
+        location: 'Kigali',
+        flag: 'rwanda.png',
+        isDaytime: false,
+        time: ''),
+    WorldTime(
         url: 'Africa/Cairo',
         location: 'Cairo',
         flag: 'egypt.png',
